@@ -1,0 +1,12 @@
+log evidence ln Z = 380.18 +/- 0.18   (11716 posterior samples)
+
+param         truth    median     -1sig     +1sig   truth inside
+T0          288.000   286.153     1.618     1.727   95% interval only
+kappa         0.150     0.117     0.042     0.117   68% interval
+log_H2O      -2.520    -2.500     0.182     0.194   68% interval
+log_CO2      -3.400    -3.123     0.400     0.480   68% interval
+log_CH4      -5.000    -4.838     0.231     0.291   68% interval
+R_p           1.000     1.010     0.009     0.009   95% interval only
+
+Note: with 6 parameters, one or two truths falling outside the 68% interval is
+normal. Only a truth outside the 95% interval deserves investigation.
