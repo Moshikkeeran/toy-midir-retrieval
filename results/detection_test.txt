@@ -1,0 +1,7 @@
+true log CH4       lnZ with  lnZ without      ln B   log10 K  Jeffreys
+-7.0            380.49+-0.18  379.68+-0.17      0.81      0.35  very weak
+-6.0            379.34+-0.19  274.75+-0.17    104.59     45.42  decisive
+-5.0            380.17+-0.19   76.86+-0.17    303.31    131.73  decisive
+
+ln B = ln Z(with CH4) - ln Z(without CH4). Toy opacities: a demonstration of the
+method, not a statement about LIFE sensitivity.

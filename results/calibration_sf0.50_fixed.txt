@@ -1,0 +1,12 @@
+N = 20 runs, assumed noise = 0.50 x true noise, truth: fixed
+
+param      in 68% int.  in 95% int.
+T0                 30%          65%
+kappa              45%          80%
+log_H2O            40%          75%
+log_CO2            50%          75%
+log_CH4            40%          75%
+R_p                40%          75%
+
+Calibrated posteriors: about 68% and 95%. With N = 20 the counting uncertainty on a
+fraction near 68% is roughly +/- 10%, so only large departures mean anything.
